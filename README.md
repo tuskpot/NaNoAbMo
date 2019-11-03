@@ -22,6 +22,6 @@ The code is very simple at the moment. It looks for exact word matches, includin
 ## 3
 [Twenty Thousand Leagues Under the Sea, by Jules Verne](03-jules-verne_twenty-thousand-leagues-under-the-seas.md)
 
-The source files that I'm getting from Standard Ebooks are collections of xml files, with each chapter in a separate file. This script discards all the xml, discards chapter titles, and joins the chapter text together before running the resulting text through the "abridger" algorithm.
+The source files that I'm getting from Standard Ebooks are collections of xhtml files, with each chapter in a separate file. This script discards all the xhtml tags, discards chapter titles, and joins the chapter text together before running the resulting text through the "abridger" algorithm.
 
 I'm also discarding any sections that aren't part of the main body of work (such as introductions, colophons, and so on).
