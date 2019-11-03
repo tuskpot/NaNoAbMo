@@ -18,3 +18,10 @@ This algorithm (or something like it) was described by John Pierce in *Symbols, 
 [The Adventures of Sherlock Holmes, by Arthur Conan Doyle](./02-arthur-conan-doyle_the-adventures-of-sherlock-holmes.md)
 
 The code is very simple at the moment. It looks for exact word matches, including capitalization and surrounding punctuation. For example, "Doctor" would not match "Doctor," or "doctor".
+
+## 3
+[Twenty Thousand Leagues Under the Sea, by Jules Verne](03-jules-verne_twenty-thousand-leagues-under-the-seas.md)
+
+The source files that I'm getting from Standard Ebooks are collections of xml files, with each chapter in a separate file. This script discards all the xml, discards chapter titles, and joins the chapter text together before running the resulting text through the "abridger" algorithm.
+
+I'm also discarding any sections that aren't part of the main body of work (such as introductions, colophons, and so on).
