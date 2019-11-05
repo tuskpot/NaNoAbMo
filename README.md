@@ -25,3 +25,12 @@ The code is very simple at the moment. It looks for exact word matches, includin
 The source files that I'm getting from Standard Ebooks are collections of xhtml files, with each chapter in a separate file. This script discards all the xhtml tags, discards chapter titles, and joins the chapter text together before running the resulting text through the "abridger" algorithm.
 
 I'm also discarding any sections that aren't part of the main body of work (such as introductions, colophons, and so on).
+
+## 4
+[The Secret Adversary, by Agatha Christie](04-agatha-christie_the-secret-adversary.md)
+
+I tried changing the algorithm to ignore adjacent punctuation, but the results were unsatisfying. The output wasn't as coherent as earlier results, and not much longer (which is what I was primarily hoping for).
+
+In hindsight, I suppose that this makes sense. Including the punctuation in the search pattern means that every pair of consecutive words appeared exactly as-is in the original work. It's reasonable that this would increase coherence at the expense of originality and variety, and discarding the punctuation would do the opposite.
+
+I gave up on this for now and went back to the punctuation-included code.
