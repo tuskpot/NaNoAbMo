@@ -34,3 +34,8 @@ I tried changing the algorithm to ignore adjacent punctuation, but the results w
 In hindsight, I suppose that this makes sense. Including the punctuation in the search pattern means that every pair of consecutive words appeared exactly as-is in the original work. It's reasonable that this would increase coherence at the expense of originality and variety, and discarding the punctuation would do the opposite.
 
 I gave up on this for now and went back to the punctuation-included code.
+
+## 5
+[Pride and Prejudice, by Jane Austen](05-jane-austen_pride-and-prejudice.md)
+
+Speaking of punctuation, Pride and Prejudice is the only work I've tested so far that produces exactly one sentence (long and convoluted though it is, as you would expect from this kind of exercise).
