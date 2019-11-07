@@ -39,3 +39,10 @@ I gave up on this for now and went back to the punctuation-included code.
 [Pride and Prejudice, by Jane Austen](05-jane-austen_pride-and-prejudice.md)
 
 Speaking of punctuation, Pride and Prejudice is the only work I've tested so far that produces exactly one sentence (long and convoluted though it is, as you would expect from this kind of exercise).
+
+## 6
+[Silas Marner, by George Eliot](06-george-eliot_silas-marner_r13.md)
+
+My second approach to making the output longer is to search again from the beginning if a match isn't found in the remainder of the book. Depending on how many times we're willing to start over at the beginning, the output can be as long as we want.
+
+In some cases, this may cause the entire output to simply repeat (specifically, if word that isn't found is also the first word of the book), but I haven't encountered that yet.
