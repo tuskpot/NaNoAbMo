@@ -46,3 +46,10 @@ Speaking of punctuation, Pride and Prejudice is the only work I've tested so far
 My second approach to making the output longer is to search again from the beginning if a match isn't found in the remainder of the book. Depending on how many times we're willing to start over at the beginning, the output can be as long as we want.
 
 In some cases, this may cause the entire output to simply repeat (specifically, if word that isn't found is also the first word of the book), but I haven't encountered that yet.
+
+## 7
+[Stand by for Mars!, by Carey Rockwell](07-carey-rockwell_stand-by-for-mars_r100.md)
+
+But, how many passes should be used? Is there an ideal number for each book?
+
+The downside of having the number of passes through the book controlled by a parameter is that it reintroduces human choice into a process that I intended to be completely mechanical.
