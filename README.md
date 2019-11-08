@@ -53,3 +53,12 @@ In some cases, this may cause the entire output to simply repeat (specifically, 
 But, how many passes should be used? Is there an ideal number for each book?
 
 The downside of having the number of passes through the book controlled by a parameter is that it reintroduces human choice into a process that I intended to be completely mechanical.
+
+## 8
+[The Railway Children, by E. Nesbit](08-e-nesbit_the-railway-children_r200.md)
+
+This exercise was inspired by [NaNoGenMo](https://nanogenmo.github.io/), but I didn't expect to generate a novel's worth of output. Now that I'm making an arbitrary number of passes through the source text, though, I may be able to generate an output long enough to meet the NaNoGenMo target of 50,000 words.
+
+For each source text, the algorithm will eventually enter a loop and start repeating output that it has already produced. Since there is no randomness in this algorithm, once it reaches a point where it's been before, it will generate exactly the same output that it did previously.
+
+At best, it could produce an output that is exactly as long as the input before it has to revisit a word (thus starting a loop). In practice, I expect it to start looping much earlier than this.
