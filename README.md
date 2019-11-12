@@ -62,3 +62,8 @@ This exercise was inspired by [NaNoGenMo](https://nanogenmo.github.io/), but I d
 For each source text, the algorithm will eventually enter a loop and start repeating output that it has already produced. Since there is no randomness in this algorithm, once it reaches a point where it's been before, it will generate exactly the same output that it did previously.
 
 At best, it could produce an output that is exactly as long as the input before it has to revisit a word (thus starting a loop). In practice, I expect it to start looping much earlier than this.
+
+# 9
+[North of Boston, by Robert Frost](09-robert-frost_north-of-boston_r16.md)
+
+Here is an output from a collection of poetry. The short lines are much more readable than the long, rambling paragraphs that (unsurprisingly) result from running the algorithm on many novels.
