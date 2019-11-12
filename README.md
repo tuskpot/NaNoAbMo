@@ -74,3 +74,12 @@ Here is an output from a collection of poetry. The short lines are much more rea
 Standard Ebooks includes a "reading ease" score for each book. These scores are calculated using the [Flesch-Kincaid readability formula](https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests), which I would roughly summarize test as "short sentences with short words are easier to read".
 
 I thought that "easier" texts might produce more interesting output than "harder" texts. Generally, this seems to be true. Texts with lower scores (harder to read) tend to generate more of those long, rambling paragraphs that I find so dull.
+
+# 11
+[Star Hunter, by Andre Norton](11-andre-norton_star_hunter.md)
+
+There are probably several better ways to predict which texts might produce more interesting output. I can think of a few other criteria that might provide a useful measurement:
+
+* ratio of total words to unique words
+* average words per paragraph
+* quantity of quoted dialog
