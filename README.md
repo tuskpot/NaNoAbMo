@@ -67,3 +67,10 @@ At best, it could produce an output that is exactly as long as the input before 
 [North of Boston, by Robert Frost](09-robert-frost_north-of-boston_r16.md)
 
 Here is an output from a collection of poetry. The short lines are much more readable than the long, rambling paragraphs that (unsurprisingly) result from running the algorithm on many novels.
+
+# 10
+[Jeeves Stories, by P.G. Wodehouse](10-p-g-wodehouse_jeeves-stories_r51.md)
+
+Standard Ebooks includes a "reading ease" score for each book. These scores are calculated using the [Flesch-Kincaid readability formula](https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests), which I would roughly summarize test as "short sentences with short words are easier to read".
+
+I thought that "easier" texts might produce more interesting output than "harder" texts. Generally, this seems to be true. Texts with lower scores (harder to read) tend to generate more of those long, rambling paragraphs that I find so dull.
