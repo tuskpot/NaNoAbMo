@@ -83,3 +83,8 @@ There are probably several better ways to predict which texts might produce more
 * ratio of total words to unique words
 * average words per paragraph
 * quantity of quoted dialog
+
+# 12
+[Twenty Thousand Leagues Under the Seas, by Jules Verne](12-jules-verne_twenty-thousand-leagues-under-the-seas_r10.md)
+
+Originally, I referred to this project as "abridging", since it was simply dropping a bunch of words from the original text while keeping others in their original order. Now it's more accurate to call it "shuffling", since it is looping through the text multiple times, mixing up the original order of words in the process.
