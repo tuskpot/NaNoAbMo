@@ -88,3 +88,8 @@ There are probably several better ways to predict which texts might produce more
 [Twenty Thousand Leagues Under the Seas, by Jules Verne](12-jules-verne_twenty-thousand-leagues-under-the-seas_r10.md)
 
 Originally, I referred to this project as "abridging", since it was simply dropping a bunch of words from the original text while keeping others in their original order. Now it's more accurate to call it "shuffling", since it is looping through the text multiple times, mixing up the original order of words in the process.
+
+# 13
+[Little Women, by Louisa May Alcott](13-louisa-may-alcott_little-women_r14.md)
+
+One thing I like about this project is that the commitment to upload something every day (approximately) has a side-effect of discouraging me from making too many changes to the code at once (because then what would I do tomorrow?).
