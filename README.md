@@ -93,3 +93,8 @@ Originally, I referred to this project as "abridging", since it was simply dropp
 [Little Women, by Louisa May Alcott](13-louisa-may-alcott_little-women_r14.md)
 
 One thing I like about this project is that the commitment to upload something every day (approximately) has a side-effect of discouraging me from making too many changes to the code at once (because then what would I do tomorrow?).
+
+#14
+[Little Lord Fauntleroy, by Frances Hodgson Burnett](14-frances-hodgson-burnett_little-lord-fauntleroy_r34.md)
+
+Of course, I don't find time to make new and interesting changes every day, but it's still fun to generate a new output to upload.
