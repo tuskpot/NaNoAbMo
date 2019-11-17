@@ -98,3 +98,8 @@ One thing I like about this project is that the commitment to upload something e
 [Little Lord Fauntleroy, by Frances Hodgson Burnett](14-frances-hodgson-burnett_little-lord-fauntleroy_r34.md)
 
 Of course, I don't find time to make new and interesting changes every day, but it's still fun to generate a new output to upload.
+
+# 15
+[The Strange Case of Dr. Jekyll and Mr. Hyde, by Robert Louis Stevenson](15-robert-louis-stevenson_the-strange-case-of-dr-jekyll-and-mr-hyde_h.md)
+
+In an attempt to eliminate the potential for human decision-making again, the script now has an option to keep track of each position that it's encountered and simply keep looping through the book until it would revisit the same position. At that point, it stops.
