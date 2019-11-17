@@ -103,3 +103,10 @@ Of course, I don't find time to make new and interesting changes every day, but 
 [The Strange Case of Dr. Jekyll and Mr. Hyde, by Robert Louis Stevenson](15-robert-louis-stevenson_the-strange-case-of-dr-jekyll-and-mr-hyde_h.md)
 
 In an attempt to eliminate the potential for human decision-making again, the script now has an option to keep track of each position that it's encountered and simply keep looping through the book until it would revisit the same position. At that point, it stops.
+
+# 16
+[Wuthering Heights, by Emily Brontë](16-emily-bronte_withering-heights_h.md)
+
+Of the few books I've tested with the new "loop until repetition" option, only one has ended satisfactorily (with a period).
+
+The reduction in word count has so far ranged from less than 10% to about 50% of the original text. I'm curious whether I'll be able to find a text that could qualify for NaNoGenMo (that is, 50,000 words of output).
