@@ -110,3 +110,12 @@ In an attempt to eliminate the potential for human decision-making again, the sc
 Of the few books I've tested with the new "loop until repetition" option, only one has ended satisfactorily (with a period).
 
 The reduction in word count has so far ranged from less than 10% to about 50% of the original text. I'm curious whether I'll be able to find a text that could qualify for NaNoGenMo (that is, 50,000 words of output).
+
+# 17
+[The Communist Manifest, by Karl Marx and Friedrich Engels](17-karl-marx_friedrich-engels_the-communist-manifesto.md)
+
+My first pass on the Communist Manifesto preserved over 96% of the original text! I was very surprised that anything would be able to keep so much of the original and suspected some error.
+
+On investigation, I discovered a couple minor mistakes in my script that were causing some text to be dropped entirely. After fixing this, however, the output preserves over 87% of the original text, which is still quite unexpected.
+
+On top of that, the last word of the output is the last word of the original text!
