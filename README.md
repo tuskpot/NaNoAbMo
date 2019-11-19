@@ -119,3 +119,8 @@ My first pass on the Communist Manifesto preserved over 96% of the original text
 On investigation, I discovered a couple minor mistakes in my script that were causing some text to be dropped entirely. After fixing this, however, the output preserves over 87% of the original text, which is still quite unexpected.
 
 On top of that, the last word of the output is the last word of the original text!
+
+# 18
+[Dracula, by Bram Stoker](18-bram-stoker_dracula_h.md)
+
+Sadly, it turns out that the current script halts on two consecutive identical words if they are the only appearance of that word in the original text. This is unsatisfying.
